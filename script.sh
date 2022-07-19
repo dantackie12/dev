@@ -4,7 +4,7 @@ echo "welcone to scripting lifestyle"
 echo
 echo
 sleep 3
-echho "if you like I can create a user with a folder for you"
+echo "if you like I can create a user with a folder for you"
 sleep 2
 echo
 echo
