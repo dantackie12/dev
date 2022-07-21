@@ -31,3 +31,5 @@ echo
 #write a case state that will perform any action that the user picks
 echo Will you like to make another transaction
 echo "Done!!"
+sleep 2
+echo we are complete, enjoy your day.
