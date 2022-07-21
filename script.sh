@@ -24,7 +24,10 @@ echo "5. Create a webserver"
 #read option
 sleep 2
 echo "You have selected option $option "
+echo
+echo
 echo "I will go ahead and follow your wishes"
 echo
 #write a case state that will perform any action that the user picks
+echo Will you like to make another transaction
 echo "Done!!"
